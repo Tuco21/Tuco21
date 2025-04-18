@@ -13,17 +13,20 @@
 [![GitHub followers](https://img.shields.io/github/followers/arisguimera?style=social)](https://github.com/ArisGuimera)
 ![Discord Shield](https://discordapp.com/api/guilds/807719549075980308/widget.png?style=shield)
 -->
-## Sobre mi
+<br>
+🤖 Sobre mi
+<br>
 - 📲 Full Stack developer
+- 👨‍💻​ Electronics technician
 <br>
 
-## Proyectos *bombitas*
+🌐​ Proyectos 
 <table>
 <tr>
 <td width="50%">
 <h3 align="center">The Mandalorian</h3>
 <div align="center">
-<a href="[https://github.com/ArisGuimera/Android-Expert](https://www.youtube.com/watch?v=_d7DQZ8PAlk&list=PLHL4mCnalVSLKYMcD0pVvk1gYJjtwuNi_)" target="_blank"></a>
+<a href="https://www.youtube.com/watch?v=_d7DQZ8PAlk&list=PLHL4mCnalVSLKYMcD0pVvk1gYJjtwuNi_" target="_blank"></a>
 <p>
 </div>                                                                                   
 </td>                                                            
@@ -31,10 +34,10 @@
 <br> 
 <br>
 
-### ⚙️ &nbsp;GitHub Analytics
+⚙️ &nbsp;GitHub Analytics
 
 <p align="center">
-<a href="https://github.com/ArisGuimera">
+<a href="https://github.com/Tuco21">
   <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api?username=Tuco21&show_icons=true&theme=algolia&include_all_commits=true&count_private=true"/>
   <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=Tuco21&layout=compact&langs_count=8&theme=algolia"/>
 </a>
