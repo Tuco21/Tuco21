@@ -6,7 +6,7 @@
 <div align="center">
 <h1 align="center">Hola, soy <a href="">Tuco21</a> 👋</h1>
 </div>
-<!-- <img src="https://i.imgur.com/weNbhGZ.png"> -->
+<img src="https://i.ytimg.com/vi/_d7DQZ8PAlk/hqdefault.jpg?sqp=-oaymwExCOADEI4CSFryq4qpAyMIARUAAIhCGAHwAQH4Af4JgALQBYoCDAgAEAEYciA-KD4wDw==&rs=AOn4CLCMjBiGL0OxvUQLfFE79OjLcEEzLA)"> 
 <!--
 [![YouTube Channel Subscribers](https://img.shields.io/youtube/channel/subscribers/UCIjEgHA1vatSR2K4rfcdNRg?style=social)](https://youtube.com/aristidevs?sub_confirmation=1)
 [![Twitch Status](https://img.shields.io/twitch/status/aristidevs?style=social)](https://www.twitch.tv/aristidevs)
@@ -14,10 +14,11 @@
 ![Discord Shield](https://discordapp.com/api/guilds/807719549075980308/widget.png?style=shield)
 -->
 <br>
-🤖 Sobre mi
+👨‍💻​ Sobre mi
 <br>
 - 📲 Full Stack developer
-- 👨‍💻​ Electronics technician
+<br>
+- 🤖 Electronics technician
 <br>
 
 🌐​ Proyectos 
@@ -26,8 +27,8 @@
 <td width="50%">
 <h3 align="center">The Mandalorian</h3>
 <div align="center">
-<a href="https://www.youtube.com/watch?v=_d7DQZ8PAlk&list=PLHL4mCnalVSLKYMcD0pVvk1gYJjtwuNi_" target="_blank"></a>
-<p>
+  <img src="https://i.ytimg.com/vi/_d7DQZ8PAlk/hqdefault.jpg?sqp=-oaymwExCOADEI4CSFryq4qpAyMIARUAAIhCGAHwAQH4Af4JgALQBYoCDAgAEAEYciA-KD4wDw==&rs=AOn4CLCMjBiGL0OxvUQLfFE79OjLcEEzLA)"> 
+  <a href="https://www.youtube.com/watch?v=_d7DQZ8PAlk&list=PLHL4mCnalVSLKYMcD0pVvk1gYJjtwuNi_" target="_blank"></a>
 </div>                                                                                   
 </td>                                                            
 </table>  
