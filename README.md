@@ -27,14 +27,20 @@
 <br>
 <table>
 <tr>
-<td width="50%">
-<h3 align="center">The Mandalorian</h3>
-<div align="center">
-  <a href="https://www.youtube.com/watch?v=_d7DQZ8PAlk&list=PLHL4mCnalVSLKYMcD0pVvk1gYJjtwuNi_" target="_blank">
-  <img src="https://i.ytimg.com/vi/_d7DQZ8PAlk/hqdefault.jpg?sqp=-oaymwExCOADEI4CSFryq4qpAyMIARUAAIhCGAHwAQH4Af4JgALQBYoCDAgAEAEYciA-KD4wDw==&rs=AOn4CLCMjBiGL0OxvUQLfFE79OjLcEEzLA)"> 
-  </a>
-</div>                                                                                   
-</td>                                                            
+  <td width="50%">
+    <h3 align="center">The Mandalorian</h3>
+    <div align="center">
+      <a href="https://www.youtube.com/watch?v=AhY3hKShg2s&list=PLHL4mCnalVSLKYMcD0pVvk1gYJjtwuNi_&index=3" target="_blank" rel="noopener noreferrer">
+        <img src="https://i.ytimg.com/vi/_d7DQZ8PAlk/hqdefault.jpg?sqp=-oaymwExCOADEI4CSFryq4qpAyMIARUAAIhCGAHwAQH4Af4JgALQBYoCDAgAEAEYciA-KD4wDw==&rs=AOn4CLCMjBiGL0OxvUQLfFE79OjLcEEzLA)"> 
+      </a>
+    </div>                                                                                   
+  </td>
+   <td width="50%">
+    <h3 align="center">Highly confidential work</h3>
+    <div align="center">
+      <p> 💻​ I have worked on company systems that include highly confidential work, doing full-stack development such as administrative management systems, among others. 💻​</p>
+    </div>                                                                                   
+  </td>  
 </table>  
 <br> 
 <br>
